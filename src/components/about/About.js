@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.JPG";
-import CV from "../../assets/Prathipan-CV.pdf";
+// import CV from "../../assets/Prathipan-CV.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -22,8 +22,8 @@ const About = () => {
             with the projects carried out.
           </p>
 
-          <a download="" href={CV} className="button button-flex">
-            Download CV
+          <a href="https://drive.google.com/drive/folders/1R3e5S0QGgm-5lk524C53uiRC9Fxr_OUK?usp=sharing" className="button button-flex" target="_blank">
+            Resume <i class="uil uil-message button-icon"></i>
           </a>
         </div>
       </div>
