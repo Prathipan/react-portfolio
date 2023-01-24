@@ -91,3 +91,29 @@
 .contact-form-area textarea {
     resize: none;
 }
+
+@media screen and (max-width : 992) {
+    .contact-container{
+        column-gap: 3rem;
+    }
+}
+@media screen and (max-width : 768) {
+    .contact-container{
+        grid-template-columns: 1fr;
+        row-gap: 3rem;
+    }
+    .contact-info{
+        justify-content: center;
+    }
+    .contact-form{
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width : 576) {
+    .contact-info{
+        grid-template-columns: 1fr;
+    }
+    .contact-form{
+        width: 100%;
+    }
+}
