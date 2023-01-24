@@ -57,8 +57,8 @@ const Data = () => {
       </h1>
       <h3 className="home-subtitle">Web developer</h3>
       <p className="home-description">
-        I'm a creative designer based in India, and I'm very passinate and
-        dedicated to my work
+        I'm a web developer based in India, and I'm very much passionate and
+        love to code🖤.
       </p>
       <a href="#contact" className="button button-flex">
         Send Message <i class="uil uil-message button-icon"></i>

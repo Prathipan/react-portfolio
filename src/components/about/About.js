@@ -17,9 +17,8 @@ const About = () => {
           <Info />
 
           <p className="about-description">
-            Frontend developer,I have created web pages with UI/UX user
-            interface , I have 1 year of experience and many clients are happy
-            with the projects carried out.
+            Full stack developer,I have created web pages with UI/UX user
+            interface , I'm very much intrested in problem solving and love coding.
           </p>
 
           <a href="https://drive.google.com/drive/folders/1R3e5S0QGgm-5lk524C53uiRC9Fxr_OUK?usp=sharing" className="button button-flex" target="_blank">
