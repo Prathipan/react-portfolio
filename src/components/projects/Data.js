@@ -36,9 +36,9 @@ export const projects = [
       {
         id: 5,
         image: Work5,
-        title: "MERN Authentication",
+        title: "Chat Application",
         category: "MERN",
-        link : "https://prathipan-authentication.netlify.app/"
+        link : "https://prathipan-chat-application.netlify.app/"
       },    
 ]
 
