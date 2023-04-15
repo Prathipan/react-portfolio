@@ -21,7 +21,7 @@ const About = () => {
             interface , I'm very much intrested in problem solving and love coding.
           </p>
 
-          <a href="https://drive.google.com/drive/folders/1R3e5S0QGgm-5lk524C53uiRC9Fxr_OUK?usp=sharing" className="button button-flex" target="_blank">
+          <a href="https://drive.google.com/file/d/1B5qAiU02ejHP2qcfeRDkAWKWDN6CTd2u/view" className="button button-flex" target="_blank">
             Resume <i class="uil uil-message button-icon"></i>
           </a>
         </div>
