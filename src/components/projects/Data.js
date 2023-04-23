@@ -3,6 +3,8 @@ import Work2 from "../../assets/work2.png"
 import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
 import Work5 from "../../assets/work5.png"
+import Work6 from "../../assets/work6.png"
+import Work7 from "../../assets/work7.png"
 
 export const projects = [
     {
@@ -39,7 +41,21 @@ export const projects = [
         title: "Chat Application",
         category: "MERN",
         link : "https://prathipan-chat-application.netlify.app/"
-      },    
+      },
+      {
+        id: 6,
+        image: Work6,
+        title: "Netflix clone",
+        category: "MERN",
+        link : "https://video-clone-client.netlify.app/"
+      },
+      {
+        id: 7,
+        image: Work7,
+        title: "Netflix clone admin",
+        category: "MERN",
+        link : "https://onlineott-admin-dashboard.netlify.app/"
+      }    
 ]
 
 export const projectsNav = [
