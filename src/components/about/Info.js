@@ -7,14 +7,14 @@ const Info = () => {
           <i class="uil uil-award about-icon"></i>
 
            <h3 className='about-title'>Experience</h3>
-           <span className='about-subtitle'>1.5+ year</span>
+           <span className='about-subtitle'>2 years</span>
        </div>
 
        <div className='about-box'>
        <i class="uil uil-briefcase-alt about-icon"></i>
 
            <h3 className='about-title'>Completed</h3>
-           <span className='about-subtitle'>20+ projects</span>
+           <span className='about-subtitle'>5+ projects</span>
        </div>
 
        <div className='about-box'>

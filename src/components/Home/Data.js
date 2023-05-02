@@ -55,10 +55,9 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home-subtitle">Web developer</h3>
+      <h3 className="home-subtitle">Full Stack developer</h3>
       <p className="home-description">
-        I'm a web developer based in India, and I'm very much passionate and
-        love to code🖤.
+      My expertise in React, Express, Node, MySQL, and MongoDb is extensive. I'm currently looking for a chance to expand my expertise and advance my career.🖤.
       </p>
       <a href="#contact" className="button button-flex">
         Send Message <i class="uil uil-message button-icon"></i>

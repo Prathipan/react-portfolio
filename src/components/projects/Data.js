@@ -31,9 +31,9 @@ export const projects = [
       {
         id: 4,
         image: Work4,
-        title: "Todo App",
-        category: "React",
-        link : "https://flourishing-strudel-9a7e18.netlify.app/"
+        title: "Shop Zone(Ecomm App)",
+        category: "MERN",
+        link : "https://shopzone-client.netlify.app/"
       },
       {
         id: 5,
@@ -69,3 +69,4 @@ export const projectsNav = [
         name : "MERN"
     }
 ]
+

@@ -17,8 +17,8 @@ const About = () => {
           <Info />
 
           <p className="about-description">
-            Full stack developer,I have created web pages with UI/UX user
-            interface , I'm very much intrested in problem solving and love coding.
+          MERN stack developer with extensive programming experience and a strong desire to learn new technologies.
+          My expertise in React, Express, Node, MySQL, and MongoDb is extensive. I'm currently looking for a chance to expand my expertise and advance my career.
           </p>
 
           <a href="https://drive.google.com/file/d/1B5qAiU02ejHP2qcfeRDkAWKWDN6CTd2u/view" className="button button-flex" target="_blank">
