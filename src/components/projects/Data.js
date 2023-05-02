@@ -9,10 +9,10 @@ import Work7 from "../../assets/work7.png"
 export const projects = [
     {
         id: 1,
-        image: Work1,
-        title: "Money manager",
+        image: Work4,
+        title: "Shop Zone(Ecomm App)",
         category: "MERN",
-        link : "https://prathipan-money-manager.netlify.app/"
+        link : "https://shopzone-client.netlify.app/"
       },
       {
         id: 2,
@@ -30,10 +30,10 @@ export const projects = [
       },
       {
         id: 4,
-        image: Work4,
-        title: "Shop Zone(Ecomm App)",
+        image: Work1 ,
+        title: "Money manager",
         category: "MERN",
-        link : "https://shopzone-client.netlify.app/"
+        link : "https://prathipan-money-manager.netlify.app/ "
       },
       {
         id: 5,
