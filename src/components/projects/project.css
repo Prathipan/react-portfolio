@@ -28,8 +28,12 @@
 .work-card {
   background-color: var(--container-color);
   border: 1px solid rgba(0, 0, 0, 0.1);
+  width: 400px;
   padding: 1.25rem;
   border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .work-img {
@@ -61,6 +65,22 @@
   justify-content: center;
   align-items: center;
   margin: 20px 0;
+}
+.link-buttons{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.code-button{
+  background-color: var(--title-color);
+  color: var(--container-color);
+  font-size: 12px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.code-button:hover {
+  background-color: var(--title-color-dark);
 }
 
 @media screen and (max-width: 992px) {
