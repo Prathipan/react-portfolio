@@ -50,7 +50,7 @@ export const projects = [
         interface like netflix, personalized content recommendations, and multi-device
         compatibility for streaming movies.`,
         category: "MERN",
-        link : "https://video-clone-client.netlify.app/",
+        link : "https://videoflix-client.netlify.app",
         FECode: "https://github.com/Prathipan/netflix-clone-client",
         BECode : "https://github.com/Prathipan/netflix-clone-admin"
       },
