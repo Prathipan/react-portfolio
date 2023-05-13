@@ -52,7 +52,7 @@ export const projects = [
         category: "MERN",
         link : "https://video-clone-client.netlify.app/",
         FECode: "https://github.com/Prathipan/netflix-clone-client",
-        BECode : "https://github.com/Prathipan/netflix-clone-admin"
+        BECode : "https://github.com/Prathipan/netflix-clone-server"
       },
       {
         id: 5,
@@ -61,7 +61,8 @@ export const projects = [
         desc : `Admin panel for netflix clone where admin can manage the users and videos`,
         category: "MERN",
         link : "https://onlineott-admin-dashboard.netlify.app/",
-        FECode: "https://github.com/Prathipan/netflix-clone-admin"
+        FECode: "https://github.com/Prathipan/netflix-clone-admin",
+        BECode : "https://github.com/Prathipan/netflix-clone-server"
       },    
       {
         id: 6,
