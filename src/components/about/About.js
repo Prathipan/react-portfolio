@@ -21,7 +21,7 @@ const About = () => {
           My expertise in React, Express, Node, MySQL, and MongoDb is extensive. I'm currently looking for a chance to expand my expertise and advance my career.
           </p>
 
-          <a href="https://drive.google.com/drive/u/0/folders/1R3e5S0QGgm-5lk524C53uiRC9Fxr_OUK" className="button button-flex" target="_blank" rel="noreferrer">
+          <a href="https://drive.google.com/file/d/1YbfOobSjT4rmEFrVZ1pOrW_QvuCDaUN9/view?usp=share_link" className="button button-flex" target="_blank" rel="noreferrer">
             Resume <i class="uil uil-message button-icon"></i>
           </a>
         </div>
