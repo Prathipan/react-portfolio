@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.JPG";
-// import CV from "../../assets/Prathipan-CV.pdf";
+import CV from "../../assets/Prathipan.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -21,7 +21,7 @@ const About = () => {
           My expertise in React, Express, Node, MySQL, and MongoDb is extensive. I'm currently looking for a chance to expand my expertise and advance my career.
           </p>
 
-          <a href="https://drive.google.com/file/d/1V-V7MSRQwlgGKso6wYZ534aFiJFbJ6sk/view?usp=sharing" className="button button-flex" target="_blank" rel="noreferrer">
+          <a href={CV} className="button button-flex" target="_blank" rel="noreferrer">
             Resume <i class="uil uil-message button-icon"></i>
           </a>
         </div>
