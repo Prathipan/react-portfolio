@@ -1,4 +1,5 @@
 import Work1 from "../../assets/work1.png"
+import Admin from "../../assets/shopzoneAdmin.jpg"
 import Work2 from "../../assets/work2.png"
 import Work3 from "../../assets/work3.png"
 import Work4 from "../../assets/work4.png"
@@ -18,6 +19,16 @@ export const projects = [
         system.`,
         link : "https://shopzone-client.netlify.app/",
         FECode: "https://github.com/Prathipan/ecomm-client",
+        BECode : "https://github.com/Prathipan/ecomm-server"
+      },
+      {
+        id: 8,
+        image: Admin,
+        title: "Shop Zone Admin(Ecomm App)",
+        category: "MERN",
+        desc : `Admin Panel for the ShopZone application where admin can track orders, users and products.`,
+        link : "https://shopzone-admin.netlify.app/",
+        FECode: "https://github.com/Prathipan/eComm-admin",
         BECode : "https://github.com/Prathipan/ecomm-server"
       },
       {
