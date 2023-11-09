@@ -56,7 +56,6 @@ const Qualification = () => {
                   <i class="uil uil-calendar-alt"></i>2013-2014
                 </div>
               </div>
-
               <div>
                 <span className="qualification-rounder"></span>
                 <span className="qualification-line"></span>
