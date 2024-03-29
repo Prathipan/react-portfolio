@@ -108,7 +108,7 @@ const Qualification = () => {
                 <h3 className="qualification-title">SSO Engineer</h3>
                 <span className="qualification-subtitle">HCL Technologies</span>
                 <div className="qualification-calendar">
-                  <i class="uil uil-calendar-alt"></i>2021-present
+                  <i class="uil uil-calendar-alt"></i>2021-2024
                 </div>
               </div>
 
@@ -127,7 +127,7 @@ const Qualification = () => {
 
               <div>
                 <h3 className="qualification-title">Web development</h3>
-                <span className="qualification-subtitle">freelance</span>
+                <span className="qualification-subtitle">Self Learning</span>
                 <div className="qualification-calendar">
                   <i class="uil uil-calendar-alt"></i>2021-present
                 </div>
